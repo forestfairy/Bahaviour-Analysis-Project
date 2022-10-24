@@ -1,4 +1,4 @@
-# Bahaviour-Analysis-Project
+# Behaviour-Analysis-Project
 
 The idea of this project came from the Python specialisation course I was working on, and my past experience with location analysis. I was trying to put together all the various skills I was learning and make them into something interesting.
 
